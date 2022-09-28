@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60842155597",
+    "project_id": "upload-and-retrieve-imag-ad7ec",
+    "storage_bucket": "upload-and-retrieve-imag-ad7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60842155597:android:7c3cc2d13551d9f6674604",
+        "android_client_info": {
+          "package_name": "com.aftabmaner27.firebasestorage_uploadandretrieveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60842155597-io9vog32n7oljkljmqaabe86vd40su7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QeUkrCW0c7sq5oYDSfkOazzd8rIlEJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60842155597-io9vog32n7oljkljmqaabe86vd40su7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
